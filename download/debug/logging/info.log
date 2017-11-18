@@ -1,0 +1,6 @@
+﻿2017-11-18 14:07:57,619 [1] INFO  Authentication Instance - The server instance Authentication Instance has been started!
+2017-11-18 14:07:57,619 [1] INFO  Game Instance - The server instance Game Instance has been started!
+2017-11-18 14:07:57,619 [1] INFO  Chat Instance - The server instance Chat Instance has been started!
+2017-11-18 14:07:59,260 [1] INFO  Chat Instance - The server instance Chat Instance has been stopped!
+2017-11-18 14:07:59,276 [1] INFO  Game Instance - The server instance Game Instance has been stopped!
+2017-11-18 14:07:59,276 [1] INFO  Authentication Instance - The server instance Authentication Instance has been stopped!

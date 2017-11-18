@@ -1,0 +1,32 @@
+﻿2017-11-18 14:07:57,760 Performance - ---------------------------------------------------
+CPU Usage: 0,00%, Physical Memory Usage: 32.243.712,00, Total Thread Count: 21
+AvailableWorkingThreads: 2046, AvailableCompletionPortThreads: 1000
+MaxWorkingThreads: 2047, MaxCompletionPortThreads: 1000
+Authentication Instance ----------------------------------
+Started Time: 18-11-2017 14:07:57
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 15
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 256
+Total Sending Queue Items: 256
+Game Instance ----------------------------------
+Started Time: 18-11-2017 14:07:57
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 50
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 256
+Total Sending Queue Items: 256
+Chat Instance ----------------------------------
+Started Time: 18-11-2017 14:07:57
+Is Running: True
+Total Connections: 0
+Maximum Allowed Connection Number: 50
+Total Handled Requests: 0
+Request Handling Speed (#/second): 0
+Avialable Sending Queue Items: 256
+Total Sending Queue Items: 256
+
