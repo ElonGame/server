@@ -52,13 +52,13 @@ namespace Libraries.packages.authentication
         public byte[] ToByteArray()
         {
 
-            byte[] Package;
-
             using (var Stream = new MemoryStream())
             {
 
                 using (var Writer = new BinaryWriter(Stream))
                 {
+
+                    byte[] Package;
 
                     byte[] Temp1 = Encoding.Unicode.GetBytes(Unk1);
                     byte[] Temp2 = Encoding.Unicode.GetBytes(Unk2);

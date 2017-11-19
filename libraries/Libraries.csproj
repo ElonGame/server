@@ -271,6 +271,7 @@
     <Compile Include="packages\game\response\rsBResponseQueueLocation.cs" />
     <Compile Include="packages\game\response\rsBResponseUserAuthentication.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="utf8stringwriter\Utf8StringWriter.cs" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="database\" />

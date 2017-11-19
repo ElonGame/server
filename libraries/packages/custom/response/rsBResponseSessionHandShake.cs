@@ -27,13 +27,13 @@ namespace Libraries.packages.custom
         public byte[] ToByteArray()
         {
 
-            byte[] Package;
-
             using (var Stream = new MemoryStream())
             {
 
                 using (var Writer = new BinaryWriter(Stream))
                 {
+
+                    byte[] Package;
 
                     Writer.Write(Result);
 
